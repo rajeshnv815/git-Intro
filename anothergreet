@@ -1,2 +1,2 @@
 console.log("Hello worls");
-console.log("My tetsting ideas")
+console.warn("is this coreect?")
